@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         rvAdapter = RvAdapter(this, Constant.getData())
-        binding.recyclerView.layoutManager = LinearLayoutManager(this@MainActivity)
+        binding.recyclerView.layoutManager = LinearLayoutManager(this@MainActivity, LinearLayoutManager.VERTICAL, true)
         binding.recyclerView.adapter = rvAdapter
 
         rvAdapter2 = RvAdapter(this, Constant2.getData())
