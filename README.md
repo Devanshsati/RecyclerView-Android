@@ -30,9 +30,12 @@ Below are screenshots illustrating the different RecyclerView layouts in the app
 <img src="https://github.com/Devanshsati/RecyclerView-Android/assets/79737216/78567040-9eb9-4df0-ba8e-f582c7ed825a/Screenshot_2024-05-16-14-11-51-875_com example recyclerview-edit.png" alt="Screenshot" width="300" height="600">
 
 
-*Vertical List Layout*
+*Vertical List Layout* 
+
 *Grid Layout*
+
 *Horizontal List Layout*
+
 *Staggered Grid Layout*
 
 ## Installation
