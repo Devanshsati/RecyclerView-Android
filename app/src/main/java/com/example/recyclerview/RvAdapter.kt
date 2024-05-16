@@ -32,7 +32,7 @@ class RvAdapter(private val context: Context, private var dataList: ArrayList<Rv
         }
     }
 
-    fun anim(view: View) {
+    private fun anim(view: View) {
         val animation = AlphaAnimation(0.0f, 1.0f)
         animation.duration = 500
         view.startAnimation(animation)
