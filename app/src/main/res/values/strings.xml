@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="restaurant_address">Restaurant Address</string>
+    <string name="restaurant_image">restaurant image</string>
+    <string name="displaying_restaurants">Displaying Restaurants</string>
+</resources>
