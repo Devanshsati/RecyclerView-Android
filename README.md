@@ -27,18 +27,12 @@ This Android application serves as a comprehensive example of utilizing Recycler
 
 Below are screenshots illustrating the different RecyclerView layouts in the application:
 
-![Screenshot_2024-05-16-14-11-51-875_com example recyclerview-edit](https://github.com/Devanshsati/RecyclerView-Android/assets/79737216/78567040-9eb9-4df0-ba8e-f582c7ed825a)
+<img src="https://github.com/Devanshsati/RecyclerView-Android/assets/79737216/78567040-9eb9-4df0-ba8e-f582c7ed825a/Screenshot_2024-05-16-14-11-51-875_com example recyclerview-edit.png" alt="Screenshot" width="300" height="600">
 
-![Vertical List](screenshots/vertical_list.png)
+
 *Vertical List Layout*
-
-![Grid Layout](screenshots/grid_layout.png)
 *Grid Layout*
-
-![Horizontal List](screenshots/horizontal_list.png)
 *Horizontal List Layout*
-
-![Staggered Grid Layout](screenshots/staggered_grid_layout.png)
 *Staggered Grid Layout*
 
 ## Installation
